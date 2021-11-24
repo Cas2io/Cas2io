@@ -1,7 +1,7 @@
 ### Eu sou o Cassiano José de Borba 👋
 
 - 🔭 Buscando mudança de carreira na área de programação.
-- 🌱 Estou estudando HTML, CSS e JavaScript.
+- 🌱 Estou estudando HTML, CSS, JavaScript, Python e SQL.
 - 🤔 Qualquer ajuda é bem-vinda!
 
 <div>
